@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Barizo
+- 👋 Hi, my name is João Barizon
 - 👀 I’m interested in codes in general 
-- 🌱 I’m currently learning pytho
+- 🌱 I’m currently learning python
 - 📫 How to reach me 1717joao@gmail.com
