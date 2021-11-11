@@ -1,4 +1,4 @@
 - 👋 Hi, my name is João Barizon
-- 👀 I’m interested in codes in general 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in codes in general and solve problems
+- 🌱 I’m currently learning java and practice some algorithms to solve problems
 - 📫 How to reach me 1717joao@gmail.com
