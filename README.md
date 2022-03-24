@@ -1,4 +1,3 @@
 - 👋 Hi, my name is João Barizon
-- 👀 I’m interested in codes in general and solve problems
-- 🌱 I’m currently learning java and practice some algorithms to solve problems
+- 👀 I’m interested in gamedev and solve algorithms
 - 📫 How to reach me 1717joao@gmail.com
