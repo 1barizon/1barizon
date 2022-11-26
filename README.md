@@ -1,3 +1,3 @@
-- 👋 Hi, my name is João Barizon
-- 👀 I’m interested in gamedev and solve algorithms
-- 📫 How to reach me 1717joao@gmail.com
+- NOTHING YET
+- COMPUTER ENGENIEER STUDENT SOON (I HOPE)
+- 
